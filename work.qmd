@@ -1,0 +1,148 @@
+---
+title: "Projects and Case Studies"
+page-layout: full
+---
+
+::: {.wrap}
+
+```{=html}
+<div class="pf-bar" role="search" aria-label="Filter projects"><label class="pf-field"><span>Theme</span><select data-filter="theme"><option value="">All</option><option value="Agents">Agents</option><option value="Bidding">Bidding</option><option value="Computer Vision">Computer Vision</option><option value="Experimentation">Experimentation</option><option value="Forecasting">Forecasting</option><option value="LLM Evals">LLM Evals</option><option value="MLOps">MLOps</option><option value="Marketing Science">Marketing Science</option><option value="NLP">NLP</option><option value="Prompt Engg">Prompt Engg</option><option value="RAG">RAG</option><option value="Recsys">Recsys</option></select></label><label class="pf-field"><span>Company</span><select data-filter="company"><option value="">All</option><option value="Skyscanner">Skyscanner</option><option value="eBay">eBay</option><option value="Expedia Group">Expedia Group</option></select></label><label class="pf-field"><span>Year</span><select data-filter="years"><option value="">All</option><option value="2026">2026</option><option value="2025">2025</option><option value="2024">2024</option><option value="2023">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option></select></label><label class="pf-field"><span>Role</span><select data-filter="role"><option value="">All</option><option value="Sole builder">Sole builder</option><option value="Hands-on builder">Hands-on builder</option><option value="Solution Architect">Solution Architect</option><option value="Tech lead">Tech lead</option><option value="Team lead">Team lead</option><option value="Product owner">Product owner</option><option value="Product management">Product management</option></select></label><button type="button" class="pf-reset">Clear</button><span class="pf-count" aria-live="polite"></span></div>
+<div class="pc-grid">
+<article class="pc" data-theme="Bidding" data-company="Skyscanner" data-years="2026" data-role="Sole builder">
+<div class="pc-top"><h3>Hotel Ads Bidding System</h3><span class="pc-yr">2026</span></div>
+<p class="pc-desc">Designed and built a new Google Hotel Ads bidding system, adapting the architecture to platform constraints.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Concept to 3 live A/B tests as sole builder</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Bidding</span><span class="tag role">Sole builder</span></div><div class="pc-org"><span class="pc-co">Skyscanner</span></div></div>
+</article>
+<article class="pc" data-theme="Marketing Science" data-company="Skyscanner" data-years="2026" data-role="Sole builder">
+<div class="pc-top"><h3>Spend-Elasticity Targets</h3><span class="pc-yr">2026</span></div>
+<p class="pc-desc">Translated global spend-elasticity and return-on-ad-spend goals into market-level thresholds.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Adopted into reporting; reused by a paid-search bidding initiative</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Marketing Science</span><span class="tag role">Sole builder</span></div><div class="pc-org"><span class="pc-co">Skyscanner</span></div></div>
+</article>
+<article class="pc" data-theme="Agents" data-company="eBay" data-years="2025 2026" data-role="Product management">
+<div class="pc-top"><h3>Seller AI Copilot</h3><span class="pc-yr">2025–26</span></div>
+<p class="pc-desc">Co-wrote the vision and PRD for a seller assistant, phased from RAG-based help to multi-agent listing management.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Multi-agent design with sub-agent, API and tool specs</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Agents</span><span class="tag role">Product management</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="LLM Evals|MLOps" data-company="eBay" data-years="2025" data-role="Product management">
+<div class="pc-top"><h3>AI Listing Descriptions</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">Customer-facing LLM that drafts listing descriptions for sellers in the US, UK and Germany, served on vLLM.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Owned the product in production with MLOps</li><li><i aria-hidden="true">↗</i>Three regional models consolidated into one multilingual model</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">LLM Evals</span><span class="tag theme">MLOps</span><span class="tag role">Product management</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="RAG" data-company="eBay" data-years="2025" data-role="Product management">
+<div class="pc-top"><h3>Listing Descriptions: RAG Redesign</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">Designed a RAG approach grounding descriptions in catalogue and manufacturer data; prototyped it offline.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>PRD helped reopen the initiative</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">RAG</span><span class="tag role">Product management</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="LLM Evals|Prompt Engg" data-company="eBay" data-years="2025" data-role="Hands-on builder|Solution Architect">
+<div class="pc-top"><h3>AI-powered Personalized Banner Copy</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">LLM system writing personalised “Sell one like this” messages for customer groups across three markets.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>LLM judge matched human reviewers at ~90% precision and recall</li><li><i aria-hidden="true">↗</i>PRD to live A/B test in three months</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">LLM Evals</span><span class="tag theme">Prompt Engg</span><span class="tag role">Hands-on builder</span><span class="tag role">Solution Architect</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Agents" data-company="eBay" data-years="2025" data-role="">
+<div class="pc-top"><h3>Intent Inference Prototype</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">Multi-agent prototype that inferred a user&#x27;s intent from their recent activity.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Won eBay&#x27;s company-wide hackathon (~50 entries)</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Agents</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Marketing Science" data-company="eBay" data-years="2025" data-role="Team lead">
+<div class="pc-top"><h3>Best Price Items Campaign</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">Model qualifying listings for a dedicated paid-marketing campaign through same- and similar-product comparisons.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>+3.8% incremental GMB</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Marketing Science</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Recsys" data-company="eBay" data-years="2024 2025" data-role="Team lead">
+<div class="pc-top"><h3>Shopping Ads Similarity Search</h3><span class="pc-yr">2024–25</span></div>
+<p class="pc-desc">Similarity-search model for Product Listing Ads, after pivoting from a bidding model that showed no scalable gain.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>+1.24% incremental GMB</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Recsys</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Recsys" data-company="eBay" data-years="2024" data-role="Team lead">
+<div class="pc-top"><h3>Partner Network Recommendations</h3><span class="pc-yr">2024</span></div>
+<p class="pc-desc">Recommendation model for a new eBay Partner Network programme, taken through four iterations from pilot to MVP.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Zero production incidents; patent application accepted for filing</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Recsys</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Bidding" data-company="eBay" data-years="2022 2023" data-role="Solution Architect">
+<div class="pc-top"><h3>Promoted Offsite Ads</h3><span class="pc-yr">2022–23</span></div>
+<p class="pc-desc">Bidding science and architecture letting sellers promote their listings on Google, with one campaign per seller.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>$53M incremental GMV, ~20k seller campaigns</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Bidding</span><span class="tag role">Solution Architect</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Marketing Science" data-company="eBay" data-years="2021 2022 2023" data-role="Team lead">
+<div class="pc-top"><h3>Paid-Marketing Intelligence</h3><span class="pc-yr">2021–23</span></div>
+<p class="pc-desc">Trending-products model for social ads, keyword sourcing for paid search and affiliate-feed curation.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Three marketing channels supported</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Marketing Science</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="NLP" data-company="eBay" data-years="2022" data-role="Team lead">
+<div class="pc-top"><h3>Listing Title Rewrite</h3><span class="pc-yr">2022</span></div>
+<p class="pc-desc">Entity-recognition model rewriting listing titles across the whole Google Shopping feed.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>+500K daily impressions</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">NLP</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Computer Vision" data-company="eBay" data-years="2021 2022" data-role="Team lead">
+<div class="pc-top"><h3>Image Quality for Social Ads</h3><span class="pc-yr">2021–22</span></div>
+<p class="pc-desc">Technical and aesthetic image-quality models for product feeds on new social channels such as Pinterest and TikTok.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Scores used by marketers as campaign filters</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Computer Vision</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Forecasting" data-company="Expedia Group" data-years="2020" data-role="Tech lead">
+<div class="pc-top"><h3>Cancellation Forecast</h3><span class="pc-yr">2020</span></div>
+<p class="pc-desc">Rebuilt Finance&#x27;s booking-cancellation forecast after COVID, with Finance, Product and Engineering.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Requirements to production release</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Forecasting</span><span class="tag role">Tech lead</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
+</article>
+<article class="pc" data-theme="Bidding" data-company="Expedia Group" data-years="2015 2016 2017 2018 2019 2020" data-role="Tech lead|Hands-on builder">
+<div class="pc-top"><h3>Google Hotel Ads Bidding</h3><span class="pc-yr">2015–20</span></div>
+<p class="pc-desc">Daily bids for ~500K hotels across 30 markets against a return target, from rules to prediction-driven bidding.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Co-developed prediction-driven bidding; built the optimisation layer</li><li><i aria-hidden="true">↗</i>From 3rd–4th to a sustained top-two click share</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Bidding</span><span class="tag role">Tech lead</span><span class="tag role">Hands-on builder</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
+</article>
+<article class="pc" data-theme="MLOps" data-company="Expedia Group" data-years="2016 2017 2018" data-role="Tech lead|Product owner">
+<div class="pc-top"><h3>Marketing ML Platform</h3><span class="pc-yr">2016–18</span></div>
+<p class="pc-desc">Moved hotel-ads bidding onto the company ML platform across four brands; added channels and migrated to AWS.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Parallel pipelines retired</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">MLOps</span><span class="tag role">Tech lead</span><span class="tag role">Product owner</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
+</article>
+<article class="pc" data-theme="Experimentation" data-company="Expedia Group" data-years="2017" data-role="Hands-on builder">
+<div class="pc-top"><h3>Bayesian Experimentation</h3><span class="pc-yr">2017</span></div>
+<p class="pc-desc">Bayesian testing infrastructure for bidding experiments: sampling, evaluation and results analysis.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Later built into the marketing ML platform</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Experimentation</span><span class="tag role">Hands-on builder</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
+</article>
+</div>
+<p class="pf-empty" hidden>No projects match these filters.</p>
+
+<script>
+(function(){
+  var bar=document.querySelector('.pf-bar'); if(!bar) return;
+  var sels=[].slice.call(bar.querySelectorAll('select')), cards=[].slice.call(document.querySelectorAll('.pc-grid .pc'));
+  var count=bar.querySelector('.pf-count'), empty=document.querySelector('.pf-empty');
+  function apply(){
+    var n=0;
+    cards.forEach(function(c){
+      var ok=sels.every(function(s){
+        var v=s.value; if(!v) return true;
+        var k=s.getAttribute('data-filter'), d=c.getAttribute('data-'+k)||'';
+        var parts = k==='years' ? d.split(' ') : d.split('|');
+        return parts.indexOf(v)>-1;
+      });
+      c.hidden=!ok; if(ok) n++;
+    });
+    count.textContent = n + (n===1?' project':' projects');
+    if(empty) empty.hidden = n>0;
+  }
+  sels.forEach(function(s){ s.addEventListener('change', apply); });
+  bar.querySelector('.pf-reset').addEventListener('click', function(){ sels.forEach(function(s){ s.value=''; }); apply(); });
+  apply();
+})();
+</script>
+```
+
+:::

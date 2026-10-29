@@ -1,0 +1,7 @@
+<script>
+// The site name in the top bar is a label, not a link.
+document.querySelectorAll('.navbar-brand').forEach(function (a) {
+  a.removeAttribute('href');
+  a.setAttribute('tabindex', '-1');
+});
+</script>

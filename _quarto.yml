@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/files/*
+    - assets/images/*
+
+website:
+  title: "Vikranth Babu T"
+  description: "Applied AI and ML leader. Decision systems and LLM products, from problem framing to measured outcomes."
+  favicon: assets/images/favicon.svg
+  open-graph: true
+  draft-mode: gone
+  search: false
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: work.qmd
+        text: Projects and Case Studies
+      # Personal projects stay hidden until there is something to show:
+      # - href: projects.qmd
+      #   text: Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/vikranthbabut
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:tvikranthbabu@gmail.com
+        aria-label: Email
+      - icon: file-earmark-person
+        href: assets/files/Vikranth-Babu-T-CV.pdf
+        aria-label: Download CV
+  page-footer:
+    left: "© 2026 Vikranth Babu T · London"
+    right:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/vikranthbabut
+      - text: Email
+        href: mailto:tvikranthbabu@gmail.com
+      - text: CV (PDF)
+        href: assets/files/Vikranth-Babu-T-CV.pdf
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false
+    include-after-body: _partials/after-body.html

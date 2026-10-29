@@ -1,0 +1,7 @@
+/_site/
+/.quarto/
+/vendor/
+.DS_Store
+
+**/*.quarto_ipynb
+/_drafts/

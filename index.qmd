@@ -1,0 +1,258 @@
+---
+pagetitle: "Vikranth Babu T · Applied AI & ML leader"
+description: "Applied AI and ML leader. Decision systems and LLM products, from problem framing to measured outcomes."
+page-layout: full
+---
+
+<!-- ================= HERO (full-width band) ================= -->
+<div class="hero-band column-screen">
+<div class="hero-wrap">
+<div class="hero-copy">
+<p class="hero-name" role="heading" aria-level="1">Vikranth Babu T</p>
+<p class="hero-eyebrow"><span class="hero-dot" aria-hidden="true"></span> London · Open to Applied AI leadership &amp; senior technical ownership</p>
+<p class="hero-tagline">Applied AI that <span class="hero-accent">earns its place</span> in production</p>
+<div class="hero-lede">
+<p>I'm applied AI and Data Science practitioner. For over a decade, my work has lived where machine learning drives high-stakes decisions—optimizing hotel bids, personalizing shopping feeds, and vetting production LLMs. Whether stepping in as an applied AI leader, tech lead, or architect, I stay close enough to the models, evaluations, and code to ensure every system delivers measurable value with speed and efficiency.</p>
+</div>
+<div class="hero-actions">
+<p><a href="mailto:tvikranthbabu@gmail.com" class="vb-button"><i class="bi bi-envelope-fill"></i> Get in touch</a> <a href="assets/files/Vikranth-Babu-T-CV.pdf" class="vb-button-outline"><i class="bi bi-file-earmark-person"></i> Download CV</a> <a href="work.qmd" class="vb-button-outline">See my work</a></p>
+</div>
+<ul class="focus-grid" aria-label="Focus areas">
+<li><span class="focus-icon" aria-hidden="true"><i class="bi bi-cpu"></i></span>LLMs &amp; AI Agents</li>
+<li><span class="focus-icon" aria-hidden="true"><i class="bi bi-clipboard-check"></i></span>LLM Evaluation</li>
+<li><span class="focus-icon" aria-hidden="true"><i class="bi bi-sliders"></i></span>Bidding &amp; Optimisation</li>
+<li><span class="focus-icon" aria-hidden="true"><i class="bi bi-person-check"></i></span>Ranking, Recommendations &amp; Personalisation</li>
+<li><span class="focus-icon" aria-hidden="true"><i class="bi bi-bar-chart-line"></i></span>Experimentation</li>
+<li><span class="focus-icon" aria-hidden="true"><i class="bi bi-bullseye"></i></span>Marketing Science</li>
+</ul>
+</div>
+<div class="flow-card">
+<p class="flow-title">How I like to work</p>
+<ol class="flow">
+<li class="flow-step" style="--i:0"><span class="flow-node" aria-hidden="true">1</span><div class="flow-text"><strong>Frame</strong><span>The decision first, then the model</span></div></li>
+<li class="flow-step" style="--i:1"><span class="flow-node" aria-hidden="true">2</span><div class="flow-text"><strong>Measure</strong><span>North star, guardrail, launch bar</span></div></li>
+<li class="flow-step" style="--i:2"><span class="flow-node" aria-hidden="true">3</span><div class="flow-text"><strong>Evaluate</strong><span>Offline first, calibrated to people</span></div></li>
+<li class="flow-step" style="--i:3"><span class="flow-node" aria-hidden="true">4</span><div class="flow-text"><strong>Test</strong><span>Live A/B, decision rules agreed up front</span></div></li>
+<li class="flow-step" style="--i:4"><span class="flow-node" aria-hidden="true">5</span><div class="flow-text"><strong>Decide</strong><span>Scale it, change it, or stop it</span></div></li>
+<li class="flow-step is-final" style="--i:5"><span class="flow-node" aria-hidden="true"><i class="bi bi-check-lg"></i></span><div class="flow-text"><strong>Own the outcome</strong><span>Live, measured, improving</span></div></li>
+</ol>
+</div>
+</div>
+
+<div class="stat-strip">
+<div class="stat"><span class="stat-value">11<em>+</em> years</span><span class="stat-label">in applied ML</span></div>
+<div class="stat"><span class="stat-value">Travel &amp; e&#8209;Commerce</span><span class="stat-label">Expedia, Skyscanner, eBay</span></div>
+<div class="stat"><span class="stat-value">Tech Leader</span><span class="stat-label">Teams in the US, UK and China</span></div>
+<div class="stat"><span class="stat-value">Builder</span><span class="stat-label">Hands-on, from PRD to code</span></div>
+<div class="stat"><span class="stat-value">Digital Advertising</span><span class="stat-label">Paid search, shopping, affiliate, social</span></div>
+</div>
+</div>
+
+<!-- ================= WHAT I DO ================= -->
+<div class="vb-section">
+<p class="eyebrow">What I do</p>
+<h2>Where I add value</h2>
+<div class="section-sub"><p>Applied science that changes a business decision, backed by the evaluation to prove it worked.</p></div>
+<div class="service-grid">
+<div class="service-card">
+<i class="bi bi-sliders service-icon"></i>
+<h4>Decisioning &amp; ML systems</h4>
+<p>Models that spend real budgets and rank real inventory.</p>
+<ul>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Bidding &amp; budget allocation:</strong> Optimizing high-stakes financial levers.</span></li>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Ranking, recommendations &amp; personalization:</strong> Shaping what users see and buy at scale.</span></li>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Experimentation:</strong> Rigorous A/B and Bayesian testing frameworks.</span></li>
+</ul>
+</div>
+<div class="service-card">
+<i class="bi bi-cpu-fill service-icon"></i>
+<h4>LLM systems &amp; evaluation</h4>
+<p>Generative AI that a business can actually stand behind.</p>
+<ul>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Production LLMs:</strong> Fine-tuned products owned live in production.</span></li>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Rigorous evaluation:</strong> Rubrics, automated LLM judges, and human review loops.</span></li>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Architecture:</strong> Responsible AI, RAG, and multi-agent design.</span></li>
+</ul>
+</div>
+<div class="service-card">
+<i class="bi bi-compass-fill service-icon"></i>
+<h4>Leading applied science</h4>
+<p>Driving initiatives from the initial problem statement to a live result.</p>
+<ul>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Technical product ownership:</strong> Problem framing, PRDs, and strict launch criteria.</span></li>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Hands-on leadership:</strong> Directing lean, distributed teams while staying deep in the details.</span></li>
+<li><i class="bi bi-check-circle-fill"></i><span><strong>Cross-functional alignment:</strong> Bridging product, engineering, and analytics.</span></li>
+</ul>
+</div>
+</div>
+</div>
+
+<!-- ================= HOW I WORK (full-width band) ================= -->
+<div class="process-band column-screen">
+<div class="vb-section">
+<p class="eyebrow">How I work</p>
+<h2>From the decision to a measured result</h2>
+<div class="process-grid">
+<div class="process-step"><div class="process-head"><span class="process-num">01</span><h4>Frame</h4></div><p class="process-lead">What decision does this serve?</p><ul><li>Determine if model is the right lever</li><li>Name the target outcome before picking the method</li></ul></div>
+<div class="process-step"><div class="process-head"><span class="process-num">02</span><h4>Measure</h4></div><p class="process-lead">Agree how we measure it</p><p>North star, guardrail and launch bar, agreed before anything is built.</p></div>
+<div class="process-step"><div class="process-head"><span class="process-num">03</span><h4>Build and Evaluate</h4></div><p class="process-lead">Test rigorously</p><ul><li>Offline evaluation first, calibrated to human judgment</li><li>Live test with decision rules set up front</li></ul></div>
+<div class="process-step"><div class="process-head"><span class="process-num">04</span><h4>Decide</h4></div><p class="process-lead">Own the outcome</p><p>Own the readout and the call that follows: scale it, change it, or stop it.</p></div>
+</div>
+</div>
+</div>
+
+<!-- ================= SELECTED WORK ================= -->
+<div class="vb-section">
+<div class="section-head">
+<div>
+<h2>Selected Work</h2>
+</div>
+<p><a href="work.qmd" class="vb-button-outline">All projects and case studies <i class="bi bi-arrow-right"></i></a></p>
+</div>
+```{=html}
+<div class="pc-grid">
+<article class="pc" data-theme="LLM Evals|MLOps" data-company="eBay" data-years="2025" data-role="Product management">
+<div class="pc-top"><h3>AI Listing Descriptions</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">Customer-facing LLM that drafts listing descriptions for sellers in the US, UK and Germany, served on vLLM.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Owned the product in production with MLOps</li><li><i aria-hidden="true">↗</i>Three regional models consolidated into one multilingual model</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">LLM Evals</span><span class="tag theme">MLOps</span><span class="tag role">Product management</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="LLM Evals|Prompt Engg" data-company="eBay" data-years="2025" data-role="Hands-on builder|Solution Architect">
+<div class="pc-top"><h3>AI-powered Personalized Banner Copy</h3><span class="pc-yr">2025</span></div>
+<p class="pc-desc">LLM system writing personalised “Sell one like this” messages for customer groups across three markets.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>LLM judge matched human reviewers at ~90% precision and recall</li><li><i aria-hidden="true">↗</i>PRD to live A/B test in three months</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">LLM Evals</span><span class="tag theme">Prompt Engg</span><span class="tag role">Hands-on builder</span><span class="tag role">Solution Architect</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Bidding" data-company="eBay" data-years="2022 2023" data-role="Solution Architect">
+<div class="pc-top"><h3>Promoted Offsite Ads</h3><span class="pc-yr">2022–23</span></div>
+<p class="pc-desc">Bidding science and architecture letting sellers promote their listings on Google, with one campaign per seller.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>$53M incremental GMV, ~20k seller campaigns</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Bidding</span><span class="tag role">Solution Architect</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Bidding" data-company="Skyscanner" data-years="2026" data-role="Sole builder">
+<div class="pc-top"><h3>Hotel Ads Bidding System</h3><span class="pc-yr">2026</span></div>
+<p class="pc-desc">Designed and built a new Google Hotel Ads bidding system, adapting the architecture to platform constraints.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Concept to 3 live A/B tests as sole builder</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Bidding</span><span class="tag role">Sole builder</span></div><div class="pc-org"><span class="pc-co">Skyscanner</span></div></div>
+</article>
+<article class="pc" data-theme="NLP" data-company="eBay" data-years="2022" data-role="Team lead">
+<div class="pc-top"><h3>Listing Title Rewrite</h3><span class="pc-yr">2022</span></div>
+<p class="pc-desc">Entity-recognition model rewriting listing titles across the whole Google Shopping feed.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>+500K daily impressions</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">NLP</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+<article class="pc" data-theme="Recsys" data-company="eBay" data-years="2024" data-role="Team lead">
+<div class="pc-top"><h3>Partner Network Recommendations</h3><span class="pc-yr">2024</span></div>
+<p class="pc-desc">Recommendation model for a new eBay Partner Network programme, taken through four iterations from pilot to MVP.</p>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Zero production incidents; patent application accepted for filing</li></ul>
+<div class="pc-foot"><div class="pc-tags"><span class="tag theme">Recsys</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
+</article>
+</div>
+```
+</div>
+
+<!-- ================= MY BACKGROUND ================= -->
+```{=html}
+<div class="vb-section" id="background">
+<p class="eyebrow">Experience</p>
+<h2>My Background</h2>
+<ol class="vt">
+<li class="now">
+<span class="when"><span class="yrs">2026 – now</span><span class="loc">London (UK)</span></span><span class="dot" aria-hidden="true"></span>
+<div class="vt-body">
+<div class="vt-org">Vihive Labs Ltd</div>
+<ul class="pts">
+<li>Independent AI consultancy</li>
+<li>Clients: Skyscanner UK Ltd</li>
+<li>Redesigned in-house bidding system</li>
+<li>Brief to 3 live A/B tests</li>
+</ul>
+<span class="vt-chip">Company director</span><span class="vt-chip">Solution designer</span><span class="vt-chip">Sole builder</span>
+</div>
+</li>
+<li>
+<span class="when"><span class="yrs">2021 – 2026</span><span class="loc">London (UK)</span></span><span class="dot" aria-hidden="true"></span>
+<div class="vt-body">
+<div class="vt-org">eBay</div>
+<ul class="pts">
+<li>Performance Marketing &amp; Selling Science (Paid Search, Shopping, Affiliates, Social)</li>
+<li>AI Applications Science</li>
+<li>20+ ML initiatives from roadmap to production</li>
+<li>GenAI applications (Listing descriptions, Personalised messaging, Copilot assistant design)</li>
+</ul>
+<span class="vt-chip">Team lead</span><span class="vt-chip">Agile tech lead</span><span class="vt-chip">Product management</span><span class="vt-chip">Hands-on builder</span>
+</div>
+</li>
+<li>
+<span class="when"><span class="yrs">2015 – 2021</span><span class="loc">Seattle (US), London (UK)</span></span><span class="dot" aria-hidden="true"></span>
+<div class="vt-body">
+<div class="vt-org">Expedia Group</div>
+<ul class="pts pts-3">
+<li>Bidding science and operations</li>
+<li>Marketing ML platform: Operations and management</li>
+<li>Cross-channel, Cross-partner science initiatives</li>
+<li>Meta-search, SEM, Search Compare channels</li>
+<li>Experiment Design and setup</li>
+<li>(COVID era) cancellation prediction model</li>
+</ul>
+<span class="vt-chip">Hands-on builder</span><span class="vt-chip">Tech lead</span><span class="vt-chip">Product owner</span><span class="vt-chip">Line manager</span>
+</div>
+</li>
+<li>
+<span class="when"><span class="yrs">2010 – 2014</span></span><span class="dot" aria-hidden="true"></span>
+<div class="vt-body">
+<ul class="early">
+<li><span><b>T-Mobile</b> · Statistician Intern (2014)</span></li>
+<li><span><b>IIM Ahmedabad</b> · Research Associate (2012–13)</span></li>
+<li><span><b>Juniper Networks</b> · Software Engineer II (2011–12)</span></li>
+<li><span><b>Avaya Labs</b> · Research Intern (2010)</span></li>
+</ul>
+</div>
+</li>
+<li class="edu">
+<span class="when"><span class="yrs">2007 – 2015</span></span><span class="dot" aria-hidden="true"></span>
+<div class="vt-body">
+<div class="vt-org"><i class="bi bi-mortarboard" aria-hidden="true"></i> Education</div>
+<ul class="early">
+<li><span><b>University of Washington, Seattle</b> · M.S., Industrial &amp; Systems Engineering (2015)</span></li>
+<li><span><b>IIT Madras</b> · B.Tech., Electrical Engineering, minor in Operations Research (2011)</span></li>
+</ul>
+</div>
+</li>
+</ol>
+</div>
+```
+
+<!-- ================= ABOUT ================= -->
+<div class="vb-section" id="about">
+<p class="eyebrow">Who I am</p>
+<h2>About me</h2>
+<div class="about-wrap">
+<img src="assets/images/portrait.jpg" alt="Vikranth Babu T" class="about-photo">
+<div>
+<div class="about-name">Vikranth Babu T</div>
+<p class="about-role">Applied AI &amp; ML leader · London</p>
+<p>I've spent more than eleven years working where machine learning directly drives business decisions—determining what to bid for a hotel click, which listing a shopper sees, or whether an LLM's output is safe to show a customer.</p>
+<p>I started in software engineering and operations research, which is why I care just as much about the commercial decision a system serves as the model itself. I do my best work leading lean teams on deep problems that matter to the business, and I still review the architecture, the evaluations and the code myself.</p>
+<p>Alongside that, I consult independently through Vihive Labs and build with multi-agent systems and LLM evaluation. Outside work: cricket with Croydon Cricket Club, travel and hiking.</p>
+<div class="about-stack" aria-label="Core skills"><span>Python</span><span>SQL</span><span>PySpark</span><span>PyTorch</span><span>XGBoost</span><span>LLMs &amp; evaluation</span><span>vLLM</span><span>RAG</span><span>Multi-agent design</span><span>A/B &amp; Bayesian testing</span><span>Databricks</span><span>AWS</span></div>
+```{=html}
+<div class="about-pubs">
+<div class="about-pubs-title">Publications &amp; patents</div>
+<ul>
+<li><span class="pub-tag">Journal · 2016</span><a href="https://link.springer.com/article/10.1007/s10898-015-0399-8">Bandwidth packing problem with queueing delays: modelling and exact solution approach</a> <span class="pub-venue">Journal of Global Optimization</span></li>
+<li><span class="pub-tag">Patent · 2014</span><a href="https://patents.google.com/patent/US8868406B2/en">Classifying communications with low lexical content and/or high contextual content into groups using topics</a> <span class="pub-venue">US 8,868,406 B2 · Avaya</span></li>
+<li><span class="pub-tag">Conference · 2011</span><a href="https://ieeexplore.ieee.org/document/5716478">Augmenting topic models with user relations in context-based communication services</a> <span class="pub-venue">IEEE COMSNETS</span></li>
+</ul>
+</div>
+```
+</div>
+</div>
+</div>
+
+<!-- ================= CALL TO ACTION ================= -->
+<div class="cta-banner">
+<h2>Building an applied AI team?</h2>
+<p>If you're hiring for applied science or ML leadership, or want a second opinion on an AI problem, I'd be glad to talk.</p>
+<div class="cta-actions"><p><a href="mailto:tvikranthbabu@gmail.com" class="vb-button"><i class="bi bi-envelope-fill"></i> Email me</a> <a href="https://www.linkedin.com/in/vikranthbabut" class="vb-button-linkedin"><i class="bi bi-linkedin"></i> LinkedIn</a> <a href="assets/files/Vikranth-Babu-T-CV.pdf" class="vb-button-outline"><i class="bi bi-file-earmark-person"></i> Download CV</a></p></div>
+</div>

@@ -1,0 +1,10 @@
+---
+title: "Projects"
+subtitle: "Things I'm building hands-on."
+draft: true   # hidden: not rendered or listed until this line is removed
+---
+
+<!-- Placeholder. To publish: remove `draft: true` above and uncomment the Projects link in _quarto.yml.
+Voice for this page: enthusiastic and builder-centric. What I built, why, what broke, what I learned. -->
+
+The first write-ups are on their way.
