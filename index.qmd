@@ -1,5 +1,5 @@
 ---
-pagetitle: "Vikranth Babu T · Applied AI & ML leader"
+pagetitle: "Applied AI & ML leader"
 description: "Applied AI and ML leader. Decision systems and LLM products, from problem framing to measured outcomes."
 page-layout: full
 ---
