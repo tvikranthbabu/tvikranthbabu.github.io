@@ -13,7 +13,7 @@ Personal site of Vikranth Babu T (https://tvikranthbabu.github.io), built with [
 | `_quarto.yml` | Site name, top navigation, footer |
 | `styles.scss` | Colours, fonts and all the page components. Change `$accent` to re-colour the site |
 | `assets/images/` | Photo and favicon |
-| `assets/files/Vikranth-Babu-T-CV.pdf` | The public CV (no phone number). Not in the repo yet: add it under exactly this name and every CV button works |
+| `assets/files/Vikranth-Babu-T-CV.pdf` | The public CV (no phone number). Every CV button links here: to update it, replace this file and keep exactly this name |
 
 ## What goes on the site
 
