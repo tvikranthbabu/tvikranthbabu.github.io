@@ -82,7 +82,7 @@ page-layout: full
 </article>
 <article class="pc" data-theme="NLP" data-company="eBay" data-years="2022" data-role="Team lead">
 <div class="pc-top"><h3>Listing Title Rewrite</h3><span class="pc-yr">2022</span></div>
-<p class="pc-desc">Entity-recognition model rewriting listing titles across the whole Google Shopping feed.</p>
+<p class="pc-desc">Model rewriting listing titles across the whole Google Shopping feed, built on existing entity recognition.</p>
 <ul class="pc-take"><li><i aria-hidden="true">↗</i>+500K daily impressions</li></ul>
 <div class="pc-foot"><div class="pc-tags"><span class="tag theme">NLP</span><span class="tag role">Team lead</span></div><div class="pc-org"><span class="pc-co">eBay</span></div></div>
 </article>
