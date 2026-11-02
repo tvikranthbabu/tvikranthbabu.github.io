@@ -241,7 +241,7 @@ page-layout: full
 <div class="about-pubs-title">Publications &amp; patents</div>
 <ul>
 <li><span class="pub-tag">Journal · 2016</span><a href="https://link.springer.com/article/10.1007/s10898-015-0399-8">Bandwidth packing problem with queueing delays: modelling and exact solution approach</a> <span class="pub-venue">Journal of Global Optimization</span></li>
-<li><span class="pub-tag">Patent · 2014</span><a href="https://patents.google.com/patent/US8868406B2/en">Classifying communications with low lexical content and/or high contextual content into groups using topics</a> <span class="pub-venue">US 8,868,406 B2 · Avaya</span></li>
+<li><span class="pub-tag">Patent · 2014</span><a href="https://patents.google.com/patent/US8868406B2/en">Classifying communications with low lexical content and/or high contextual content into groups using topics</a> <span class="pub-venue">US8868406B2 · Avaya</span></li>
 <li><span class="pub-tag">Conference · 2011</span><a href="https://ieeexplore.ieee.org/document/5716478">Augmenting topic models with user relations in context-based communication services</a> <span class="pub-venue">IEEE COMSNETS</span></li>
 </ul>
 </div>
