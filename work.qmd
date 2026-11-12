@@ -101,7 +101,7 @@ page-layout: full
 <article class="pc" data-theme="Bidding" data-company="Expedia Group" data-years="2015 2016 2017 2018 2019 2020" data-role="Tech lead|Hands-on builder">
 <div class="pc-top"><h3>Google Hotel Ads Bidding</h3><span class="pc-yr">2015–20</span></div>
 <p class="pc-desc">Daily bids for ~500K hotels across 30 markets against a return target, from rules to prediction-driven bidding.</p>
-<ul class="pc-take"><li><i aria-hidden="true">↗</i>Co-developed prediction-driven bidding; built the optimisation layer</li><li><i aria-hidden="true">↗</i>From 3rd–4th to a sustained top-two click share</li></ul>
+<ul class="pc-take"><li><i aria-hidden="true">↗</i>Co-developed prediction-driven bidding; built the optimisation layer</li><li><i aria-hidden="true">↗</i>From 3rd–4th to a sustained top-two click share</li><li><i aria-hidden="true">→</i><a href="work/gha-hotel-ads-bidding.qmd">Read the case study</a></li></ul>
 <div class="pc-foot"><div class="pc-tags"><span class="tag theme">Bidding</span><span class="tag role">Tech lead</span><span class="tag role">Hands-on builder</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
 </article>
 <article class="pc" data-theme="MLOps" data-company="Expedia Group" data-years="2016 2017 2018" data-role="Tech lead|Product owner">
@@ -111,8 +111,8 @@ page-layout: full
 <div class="pc-foot"><div class="pc-tags"><span class="tag theme">MLOps</span><span class="tag role">Tech lead</span><span class="tag role">Product owner</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
 </article>
 <article class="pc" data-theme="Experimentation" data-company="Expedia Group" data-years="2017" data-role="Hands-on builder">
-<div class="pc-top"><h3>Bayesian Experimentation</h3><span class="pc-yr">2017</span></div>
-<p class="pc-desc">Bayesian testing infrastructure for bidding experiments: sampling, evaluation and results analysis.</p>
+<div class="pc-top"><h3>Bidding A/B Framework</h3><span class="pc-yr">2017</span></div>
+<p class="pc-desc">Built the A/B testing framework for bidding experiments (sampling and readout) and implemented its Bayesian readout.</p>
 <ul class="pc-take"><li><i aria-hidden="true">↗</i>Later built into the marketing ML platform</li></ul>
 <div class="pc-foot"><div class="pc-tags"><span class="tag theme">Experimentation</span><span class="tag role">Hands-on builder</span></div><div class="pc-org"><span class="pc-co">Expedia Group</span></div></div>
 </article>
